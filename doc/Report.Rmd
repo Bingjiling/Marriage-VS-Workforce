@@ -2,7 +2,7 @@
 title: "The Working Lives of Married Families"
 author: "Yicheng Wang, Ao Liu, Arnold Lau, Yanyu Zheng"
 date: "February 3, 2016"
-output: html_document
+output: pdf_document
 ---
 ## Load libraries
 
